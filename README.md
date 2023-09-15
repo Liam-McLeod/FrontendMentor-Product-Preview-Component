@@ -18,7 +18,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ### Links
 
 -  [Solution URL](https://www.frontendmentor.io/solutions/profile-card-component-ZBZInVB_BA)
--  [Live Site URL](https://liam-mcleod.github.io/FrontendMentor-Profile-Card-Component/)
+-  [Live Site URL](https://liam-mcleod.github.io/FrontendMentor-Product-Preview-Component/)
 
 ## Author
 - Frontend Mentor - [@Liam-McLeod](https://www.frontendmentor.io/profile/Liam-McLeod)
